@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  #get 'welcome/index'
+  get 'welcome/index'
+  get 'welcome/sample'
 
 match ':controller(/:action(/:id))', :via => :get
 root 'welcome#index'
