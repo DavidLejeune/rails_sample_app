@@ -1,0 +1,10 @@
+https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
+https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rvm-on-ubuntu-16-04
+https://www.digitalocean.com/community/tutorials/how-to-use-postgresql-with-your-ruby-on-rails-application-on-ubuntu-14-04
+
+https://www.digitalocean.com/community/tags/ruby-on-rails?type=tutorials
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-14-04-lts
+
+proxy_pass http://0.0.0.0:3000;
+include /etc/nginx/proxy_params;
