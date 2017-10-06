@@ -1,4 +1,4 @@
-# Rails.application.routes.draw do
+Rails.application.routes.draw do
 #   get 'title_pages/home'
 #
 #   get 'title_pages/personal'
